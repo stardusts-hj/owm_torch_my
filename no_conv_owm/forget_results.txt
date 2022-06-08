@@ -1,0 +1,155 @@
+
+Test set: Avg. loss: 0.0007, Accuracy: 2078/2115 (98.2506%)
+
+
+Test set: Avg. loss: 0.0003, Accuracy: 2078/2115 (98.2506%)
+
+
+Test set: Avg. loss: 0.0002, Accuracy: 2078/2115 (98.2506%)
+
+
+Test set: Avg. loss: 0.0002, Accuracy: 2079/2115 (98.2979%)
+
+
+Test set: Avg. loss: 0.0001, Accuracy: 2079/2115 (98.2979%)
+
+test on previous task
+trained on task: 0  test on task: 0
+trained on task: 0  test on task: 0
+
+Test set: Avg. loss: 0.0001, Accuracy: 2079/2115 (98.2979%)
+
+
+Test set: Avg. loss: 0.0029, Accuracy: 1963/2042 (96.1312%)
+
+
+Test set: Avg. loss: 0.0022, Accuracy: 1982/2042 (97.0617%)
+
+
+Test set: Avg. loss: 0.0020, Accuracy: 1986/2042 (97.2576%)
+
+
+Test set: Avg. loss: 0.0019, Accuracy: 1987/2042 (97.3066%)
+
+
+Test set: Avg. loss: 0.0018, Accuracy: 1993/2042 (97.6004%)
+
+test on previous task
+trained on task: 1  test on task: 0
+trained on task: 1  test on task: 0
+
+Test set: Avg. loss: 0.0111, Accuracy: 1614/2115 (76.3121%)
+
+trained on task: 1  test on task: 1
+trained on task: 1  test on task: 1
+
+Test set: Avg. loss: 0.0018, Accuracy: 1993/2042 (97.6004%)
+
+
+Test set: Avg. loss: 0.0026, Accuracy: 1767/1874 (94.2903%)
+
+
+Test set: Avg. loss: 0.0015, Accuracy: 1805/1874 (96.3180%)
+
+
+Test set: Avg. loss: 0.0011, Accuracy: 1818/1874 (97.0117%)
+
+
+Test set: Avg. loss: 0.0009, Accuracy: 1816/1874 (96.9050%)
+
+
+Test set: Avg. loss: 0.0008, Accuracy: 1819/1874 (97.0651%)
+
+test on previous task
+trained on task: 2  test on task: 0
+trained on task: 2  test on task: 0
+
+Test set: Avg. loss: 0.1100, Accuracy: 1013/2115 (47.8960%)
+
+trained on task: 2  test on task: 1
+trained on task: 2  test on task: 1
+
+Test set: Avg. loss: 0.0298, Accuracy: 1460/2042 (71.4985%)
+
+trained on task: 2  test on task: 2
+trained on task: 2  test on task: 2
+
+Test set: Avg. loss: 0.0008, Accuracy: 1819/1874 (97.0651%)
+
+
+Test set: Avg. loss: 0.0012, Accuracy: 1927/1986 (97.0292%)
+
+
+Test set: Avg. loss: 0.0008, Accuracy: 1936/1986 (97.4824%)
+
+
+Test set: Avg. loss: 0.0006, Accuracy: 1942/1986 (97.7845%)
+
+
+Test set: Avg. loss: 0.0005, Accuracy: 1944/1986 (97.8852%)
+
+
+Test set: Avg. loss: 0.0005, Accuracy: 1945/1986 (97.9355%)
+
+test on previous task
+trained on task: 3  test on task: 0
+trained on task: 3  test on task: 0
+
+Test set: Avg. loss: 0.0295, Accuracy: 1428/2115 (67.5177%)
+
+trained on task: 3  test on task: 1
+trained on task: 3  test on task: 1
+
+Test set: Avg. loss: 0.0134, Accuracy: 1680/2042 (82.2723%)
+
+trained on task: 3  test on task: 2
+trained on task: 3  test on task: 2
+
+Test set: Avg. loss: 0.0149, Accuracy: 1372/1874 (73.2124%)
+
+trained on task: 3  test on task: 3
+trained on task: 3  test on task: 3
+
+Test set: Avg. loss: 0.0005, Accuracy: 1945/1986 (97.9355%)
+
+
+Test set: Avg. loss: 0.0037, Accuracy: 1859/1983 (93.7468%)
+
+
+Test set: Avg. loss: 0.0027, Accuracy: 1884/1983 (95.0076%)
+
+
+Test set: Avg. loss: 0.0022, Accuracy: 1896/1983 (95.6127%)
+
+
+Test set: Avg. loss: 0.0020, Accuracy: 1905/1983 (96.0666%)
+
+
+Test set: Avg. loss: 0.0018, Accuracy: 1910/1983 (96.3187%)
+
+test on previous task
+trained on task: 4  test on task: 0
+trained on task: 4  test on task: 0
+
+Test set: Avg. loss: 0.0589, Accuracy: 849/2115 (40.1418%)
+
+trained on task: 4  test on task: 1
+trained on task: 4  test on task: 1
+
+Test set: Avg. loss: 0.0381, Accuracy: 1196/2042 (58.5700%)
+
+trained on task: 4  test on task: 2
+trained on task: 4  test on task: 2
+
+Test set: Avg. loss: 0.0789, Accuracy: 261/1874 (13.9274%)
+
+trained on task: 4  test on task: 3
+trained on task: 4  test on task: 3
+
+Test set: Avg. loss: 0.0039, Accuracy: 1832/1986 (92.2457%)
+
+trained on task: 4  test on task: 4
+trained on task: 4  test on task: 4
+
+Test set: Avg. loss: 0.0018, Accuracy: 1910/1983 (96.3187%)
+

@@ -1,0 +1,126 @@
+Train on Task: 0
+Train on Task: 0
+Test on Task: 0
+
+Test set: Avg. loss: 0.0007, Accuracy: 2078/2115 (98.2506%)
+
+Train on Task: 0
+Test on Task: 0
+
+Test set: Avg. loss: 0.0003, Accuracy: 2078/2115 (98.2506%)
+
+Train on Task: 0
+Test on Task: 0
+
+Test set: Avg. loss: 0.0002, Accuracy: 2078/2115 (98.2506%)
+
+Train on Task: 0
+Test on Task: 0
+
+Test set: Avg. loss: 0.0002, Accuracy: 2079/2115 (98.2979%)
+
+Train on Task: 0
+Test on Task: 0
+
+Test set: Avg. loss: 0.0001, Accuracy: 2079/2115 (98.2979%)
+
+Train on Task: 1
+Test on Task: 1
+
+Test set: Avg. loss: 0.0037, Accuracy: 1951/2042 (95.5436%)
+
+Train on Task: 1
+Test on Task: 1
+
+Test set: Avg. loss: 0.0026, Accuracy: 1972/2042 (96.5720%)
+
+Train on Task: 1
+Test on Task: 1
+
+Test set: Avg. loss: 0.0022, Accuracy: 1982/2042 (97.0617%)
+
+Train on Task: 1
+Test on Task: 1
+
+Test set: Avg. loss: 0.0020, Accuracy: 1985/2042 (97.2086%)
+
+Train on Task: 1
+Test on Task: 1
+
+Test set: Avg. loss: 0.0019, Accuracy: 1990/2042 (97.4535%)
+
+Train on Task: 2
+Test on Task: 2
+
+Test set: Avg. loss: 0.0029, Accuracy: 1799/1874 (95.9979%)
+
+Train on Task: 2
+Test on Task: 2
+
+Test set: Avg. loss: 0.0016, Accuracy: 1814/1874 (96.7983%)
+
+Train on Task: 2
+Test on Task: 2
+
+Test set: Avg. loss: 0.0012, Accuracy: 1820/1874 (97.1185%)
+
+Train on Task: 2
+Test on Task: 2
+
+Test set: Avg. loss: 0.0010, Accuracy: 1821/1874 (97.1718%)
+
+Train on Task: 2
+Test on Task: 2
+
+Test set: Avg. loss: 0.0009, Accuracy: 1823/1874 (97.2785%)
+
+Train on Task: 3
+Test on Task: 3
+
+Test set: Avg. loss: 0.0018, Accuracy: 1946/1986 (97.9859%)
+
+Train on Task: 3
+Test on Task: 3
+
+Test set: Avg. loss: 0.0008, Accuracy: 1948/1986 (98.0866%)
+
+Train on Task: 3
+Test on Task: 3
+
+Test set: Avg. loss: 0.0006, Accuracy: 1950/1986 (98.1873%)
+
+Train on Task: 3
+Test on Task: 3
+
+Test set: Avg. loss: 0.0005, Accuracy: 1951/1986 (98.2377%)
+
+Train on Task: 3
+Test on Task: 3
+
+Test set: Avg. loss: 0.0005, Accuracy: 1951/1986 (98.2377%)
+
+Train on Task: 4
+Test on Task: 4
+
+Test set: Avg. loss: 0.0337, Accuracy: 997/1983 (50.2774%)
+
+Train on Task: 4
+Test on Task: 4
+
+Test set: Avg. loss: 0.0310, Accuracy: 992/1983 (50.0252%)
+
+Train on Task: 4
+Test on Task: 4
+
+Test set: Avg. loss: 0.0303, Accuracy: 991/1983 (49.9748%)
+
+Train on Task: 4
+Test on Task: 4
+
+Test set: Avg. loss: 0.0300, Accuracy: 990/1983 (49.9244%)
+
+Train on Task: 4
+Test on Task: 4
+
+Test set: Avg. loss: 0.0298, Accuracy: 989/1983 (49.8739%)
+
